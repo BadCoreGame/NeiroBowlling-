@@ -1,5 +1,5 @@
 
-# NeiroBowlling <img src="app\logo.png" width="40" title="А что это ты на меня наводишь свой курсор грязный?">
+# NeiroBowlling
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -17,7 +17,7 @@
 <!-- Демонстрация работы -->
 ## Демонстрация работы
 
-
+<img src="https://imgur.com/PJFGgEn.png" title="GUI" width="300" height="380"></a>
 
 <!-- Описание репозитория -->
 ## Запуск программы
